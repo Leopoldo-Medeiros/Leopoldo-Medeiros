@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software Developer passionate about solving complex problems through technology. I like to balance my career between technical and soft skills, so I gained experience implementing features on websites and systems during my journey, and facing new challenges which made and make me grow as a professional so far.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Software Developer passionate about solving complex problems through technology. I like to balance my career between technical and soft skills, so I gained experience implementing features on websites and systems during my journey, and I am still facing new challenges that made and make me grow as a professional so far.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
  </div>
