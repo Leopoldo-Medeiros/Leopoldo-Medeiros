@@ -1,4 +1,6 @@
-<h2>Hi, I am Leo <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi, I am Leo! 😎;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 <p align="center">
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=70% src="https://t4.ftcdn.net/jpg/05/59/60/45/360_F_559604561_8311XjzlPhW4b7n9TwQ8XsWxIlfPv6Sq.jpg" />
