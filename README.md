@@ -1,6 +1,9 @@
 <h2>Hi, I am Leo <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://t4.ftcdn.net/jpg/05/59/60/45/360_F_559604561_8311XjzlPhW4b7n9TwQ8XsWxIlfPv6Sq.jpg" />
+<p align="center">
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=70% src="https://t4.ftcdn.net/jpg/05/59/60/45/360_F_559604561_8311XjzlPhW4b7n9TwQ8XsWxIlfPv6Sq.jpg" />
+</p>
+
 &nbsp;&nbsp;&nbsp;
 
 
