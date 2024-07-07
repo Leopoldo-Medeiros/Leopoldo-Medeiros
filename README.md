@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=70% src="https://t4.ftcdn.net/jpg/05/59/60/45/360_F_559604561_8311XjzlPhW4b7n9TwQ8XsWxIlfPv6Sq.jpg" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=60% src="https://t4.ftcdn.net/jpg/05/59/60/45/360_F_559604561_8311XjzlPhW4b7n9TwQ8XsWxIlfPv6Sq.jpg" />
 </p>
 
 &nbsp;&nbsp;&nbsp;
