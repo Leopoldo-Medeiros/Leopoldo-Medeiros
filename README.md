@@ -1,15 +1,19 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi, I am Leo! 😎;&font=Fira%20Code&center=true&width=820&height=100&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I%20am%20Leo!%20%F0%9F%98%8E;&font=Fira%20Code&center=true&width=920&height=100&duration=4000&pause=1000&size=30" alt="Example Usage - README Typing SVG">
 </p>
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=ParthJohri&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+Fullstack Developer
+</h2>
 
 <p align="center">
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=60% src="https://t4.ftcdn.net/jpg/05/59/60/45/360_F_559604561_8311XjzlPhW4b7n9TwQ8XsWxIlfPv6Sq.jpg" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=50% src="https://t4.ftcdn.net/jpg/05/59/60/45/360_F_559604561_8311XjzlPhW4b7n9TwQ8XsWxIlfPv6Sq.jpg" />
 </p>
 
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software Developer passionate about solving complex problems through technology. I like to balance my career between technical and soft skills, so I gained experience implementing features on websites and systems during my journey, and I am still facing new challenges that have made and make me grow as a professional so far.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> I am a Fullstack Developer passionate about solving complex problems through technology. I like to balance my career between technical and soft skills, so I gained experience implementing features on websites and systems during my journey, and I am still facing new challenges that have made and make me grow as a professional so far.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
  </div>
@@ -19,12 +23,20 @@
  
  &nbsp;
  &nbsp;
+ ### ✅ Merged PRs
+<!--Start Count Merged PRs-->
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-34-1877F2?style=for-the-badge"></span>
+<!--Finish Count Merged PRs-->
+
+<!--Start Merged PRs-->
+1. 🥳 Merged PR [16](https://github.com/Leopoldo-Medeiros/Jobs2/pulls?q=is%3Apr+is%3Aclosed) - [Jobs2](https://github.com/Leopoldo-Medeiros/Jobs2/pulls?q=is%3Apr+is%3Aclosed)
+2. 🎉 Merged PR [12](https://github.com/Leopoldo-Medeiros/codecv6/pulls?q=is%3Apr+is%3Aclosed) - [CODECV6](https://github.com/Leopoldo-Medeiros/codecv6/pulls?q=is%3Apr+is%3Aclosed)
+<!--Finish Merged PRs-->
 
 
+## 🤓 My Skills
 
-## My Skills
-
-#### Main Stack:
+#### Main Stacks:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
