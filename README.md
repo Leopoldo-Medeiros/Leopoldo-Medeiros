@@ -16,16 +16,16 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> I am a Fullstack Developer passionate about solving complex problems through technology. I like to balance my career between technical and soft skills, so I gained experience implementing features on websites and systems during my journey, and I am still facing new challenges that have made and make me grow as a professional so far.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
- </div>
+  </div>
 
- ### :fire: My Stats :
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Leopoldo-Medeiros&theme=tokyonight&background=000000)](https://git.io/streak-stats)
- 
- &nbsp;
- &nbsp;
- ### ✅ Merged PRs
+
+&nbsp;
+&nbsp;
+### ✅ Merged PRs
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-28-1877F2?style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/Total_Merged_PRs-28-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
@@ -77,19 +77,18 @@
 
 ## Contacts:
 
-<div> 
+<div>  
 <a href = "mailto:contato.leopoldof.medeiros@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/leopoldomedeiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/leopoldomedeiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
 </div>&nbsp;&nbsp;
 
-<div align="center">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Leopoldo-Medeiros/ParthJohri/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Leopoldo-Medeiros/Leopoldo-Medeiros/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/Leopoldo-Medeiros/Leopoldo-Medeiros/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leopoldo-Medeiros/Leopoldo-Medeiros/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leopoldo-Medeiros/Leopoldo-Medeiros/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Leopoldo-Medeiros/Leopoldo-Medeiros/output/pacman-contribution-graph.svg">
   </picture>
-</div>
-
+</p>
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
-
