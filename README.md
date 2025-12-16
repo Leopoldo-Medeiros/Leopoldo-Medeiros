@@ -26,7 +26,7 @@
   <!-- GitHub Streak Stats -->
   <div style="margin: 30px 0; text-align: center;">
     <img 
-      src="https://streak-stats.demolab.com?user=Leopoldo-Medeiros&theme=radical&date_format=j%20M%5B%20Y%5D"
+      src="https://github-readme-stats.vercel.app/api/streak?user=Leopoldo-Medeiros&theme=radical&date_format=j%20M%5B%20Y%5D"
       alt="GitHub Streak"
       style="max-width: 100%; height: auto;"
     >
@@ -108,7 +108,7 @@ I ❤️ solve great challenges using tech. I am a Fullstack Developer passionat
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
   </a>
   <a href="https://www.linkedin.com/in/leopoldomedeiros/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the.badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
   </a>
 </div>
 
