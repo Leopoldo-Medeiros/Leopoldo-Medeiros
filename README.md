@@ -17,8 +17,7 @@
         src="./public/images/LeoAvatar.png" 
         alt="Leo Avatar" 
         style="
-          max-width: 400px; 
-          width: 100%; 
+          width: 400px; 
           height: auto; 
           border-radius: 10px; 
           box-shadow: 0 4px 15px rgba(0,0,0,0.1);
@@ -28,13 +27,12 @@
     </div>
   </div>
 
-  <!-- GitHub Streak Stats - More reliable than the previous stats -->
+  <!-- GitHub Streak Stats -->
   <div style="margin: 30px 0; text-align: center;">
     <img 
-      src="https://streak-stats.demolab.com?user=Leopoldo-Medeiros&theme=radical&date_format=j%20M%5B%20Y%5D" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Leopoldo-Medeiros&theme=radical&date_format=j%20M%5B%20Y%5D" 
       alt="GitHub Streak"
       style="max-width: 100%; height: auto;"
-      onerror="this.style.display='none'"
     >
   </div>
 </div>
