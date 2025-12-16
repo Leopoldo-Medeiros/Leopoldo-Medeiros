@@ -1,34 +1,51 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I%20am%20Leo!%20%F0%9F%98%8E;&font=Fira%20Code&center=true&width=920&height=100&duration=4000&pause=1000&size=30" alt="Example Usage - README Typing SVG">
-</p>
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leopoldo-Medeiros&color=blue&style=for-the-badge" alt="Profile Views">
-  Full Stack Developer
-</h2>
+<div style="text-align: center;">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I%20am%20Leo!%20%F0%9F%98%8E;&font=Fira%20Code&center=true&width=920&height=100&duration=4000&pause=1000&size=30" alt="Example Usage - README Typing SVG">
+</div>
+<div style="text-align: center;">
+  <h2>
+    <img src="https://komarev.com/ghpvc/?username=Leopoldo-Medeiros&color=blue&style=for-the-badge" alt="Profile Views">
+    Full Stack Developer
+  </h2>
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leopoldo-Medeiros&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leopoldo-Medeiros&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-</p>
+<div style="text-align: center;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leopoldo-Medeiros&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leopoldo-Medeiros&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" alt="Top Languages" />
+</div>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Leopoldo-Medeiros/Leopoldo-Medeiros/HEAD/public/images/LeoAvatar.png" alt="Leo Avatar" width="400">
-</p>
+<div style="text-align: center;">
+  <img src="LeoAvatar.png" alt="Leo Avatar" width="400">
+</div>
 
 &nbsp;&nbsp;&nbsp;
 
+<div style="text-align: justify; max-width: 800px; margin: 0 auto; padding: 0 20px;">
+I ❤️ solve great challenges using tech. I am a Fullstack Developer passionate about solving complex problems through technology. I like to balance my career between technical and soft skills, so I gained experience implementing features on websites and systems during my journey, and I am still facing new challenges that have made and make me grow as a professional so far.
+</div>
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> I am a Fullstack Developer passionate about solving complex problems through technology. I like to balance my career between technical and soft skills, so I gained experience implementing features on websites and systems during my journey, and I am still facing new challenges that have made and make me grow as a professional so far.</p>&nbsp;
+## 👨‍💻 Work Experience
 
-<div  align="center" style="margin-bottom:100px">
-  </div>
+- **Senior Observability Engineer** at New Relic Inc  
+  Jan 2023 - Present
+    - Handle troubleshooting and fix complex issues in various APM products including PHP, Python, Node.js, Distributed Tracing, Otel, Alerts, and Synthetics
+    - Provide expert technical advice and support to developers, covering product installation, advanced setups, and key observability concepts
+    - Built high-performance NRQL (New Relic Query Language) statements for custom analysis, reporting, and setting up critical alert policies
+    - Maintained compliance over 95% with the lowest TTR, achieving a 98% CSAT score
 
-### :fire: My Stats :
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leopoldo-Medeiros&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leopoldo-Medeiros&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-</p>
+- **FullStack Developer** at Online Application  
+  Jun 2022 - Dec 2022
+    - Developed features and upgrades for a SaaS platform targeting the American mortgage market using Laravel 8, InertiaJS, and Vue.js
+    - Built scalable front-end components with Vue.js, focusing on reusability and state management
+    - Implemented Lando (Docker-based) development environment, improving team productivity
+    - Managed source control and set up GitLab CI/CD pipelines for automation and deployment
+
+
+- **Software Engineer** at Hibernian Healthcare  
+  Jan 2020 - Jun 2022
+    - Designed and automated appointment systems and healthcare logistics deliveries using PHP, improving reliability and security
+    - Built secure web applications using CodeIgniter 3, MySQL, and front-end technologies (JavaScript, HTML5)
+    - Integrated RESTful APIs for smooth data exchanges and provided technical support for deployed applications
 
 ## 🤓 My Skills
 
@@ -68,20 +85,22 @@
 ![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 
-&nbsp;
-&nbsp;
 
 ## Contacts:
 
-<div>  
-<a href = "mailto:contato.leopoldof.medeiros@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/leopoldomedeiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
-</div>&nbsp;&nbsp;
+<div style="text-align: center; margin: 20px 0;">
+  <a href="mailto:contato.leopoldof.medeiros@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
+  </a>
+  <a href="https://www.linkedin.com/in/leopoldomedeiros/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  </a>
+</div>
 
-<p align="center">
+<div style="text-align: center;">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leopoldo-Medeiros/Leopoldo-Medeiros/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leopoldo-Medeiros/Leopoldo-Medeiros/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Leopoldo-Medeiros/Leopoldo-Medeiros/output/pacman-contribution-graph.svg">
-</picture>
-</p>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leopoldo-Medeiros/Leopoldo-Medeiros/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leopoldo-Medeiros/Leopoldo-Medeiros/output/pacman-contribution-graph.svg">
+    <img alt="GitHub contribution graph showing my activity" src="https://raw.githubusercontent.com/Leopoldo-Medeiros/Leopoldo-Medeiros/output/pacman-contribution-graph.svg">
+  </picture>
+</div>

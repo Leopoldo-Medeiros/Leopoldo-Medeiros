@@ -1,0 +1,22 @@
+# IDE - JetBrains (PhpStorm)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Operating System Files
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# GitHub Actions
+.github/workflows/*.log
