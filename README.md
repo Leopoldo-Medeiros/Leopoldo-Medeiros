@@ -14,14 +14,14 @@
 </div>
 
 <div style="text-align: center;">
-  <img src="LeoAvatar.png" alt="Leo Avatar" width="400">
+  <img src="./public/images/LeoAvatar.png" alt="Leo Avatar" width="400">
 </div>
 
 &nbsp;&nbsp;&nbsp;
 
-<div style="text-align: justify; max-width: 800px; margin: 0 auto; padding: 0 20px;">
+<p align="center" style="max-width: 800px; margin: 0 auto;">
 I ❤️ solve great challenges using tech. I am a Fullstack Developer passionate about solving complex problems through technology. I like to balance my career between technical and soft skills, so I gained experience implementing features on websites and systems during my journey, and I am still facing new challenges that have made and make me grow as a professional so far.
-</div>
+</p>
 
 ## 👨‍💻 Work Experience
 
