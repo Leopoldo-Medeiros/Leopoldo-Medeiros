@@ -4,7 +4,6 @@
   
   <!-- Profile Views and Title -->
   <h2 align="center" style="color: #333;">
-  <img src="https://komarev.com/ghpvc/?username=Leopoldo-Medeiros&color=blue&style=for-the-badge&ignore=Leopoldo-Medeiros" alt="Profile Views" style="vertical-align: middle; margin-right: 10px;" />
   Full Stack Developer
 </h2>
 </div>
@@ -41,7 +40,7 @@
     </td>
   </tr>
 </table>
-
+  <img src="https://komarev.com/ghpvc/?username=Leopoldo-Medeiros&color=blue&style=for-the-badge&ignore=Leopoldo-Medeiros" alt="Profile Views" style="vertical-align: middle; margin-right: 10px;" />
 <p style="text-align: center; max-width: 800px; margin: 20px auto 0 auto;">
 I ❤️ solve great challenges using tech. I am a Fullstack Developer passionate about solving complex problems through technology. I like to balance my career between technical and soft skills, so I gained experience implementing features on websites and systems during my journey, and I am still facing new challenges that have made and make me grow as a professional so far.
 </p>
