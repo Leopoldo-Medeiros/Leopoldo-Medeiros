@@ -1,20 +1,21 @@
-<div style="text-align: center;">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I%20am%20Leo!%20%F0%9F%98%8E;&font=Fira%20Code&center=true&width=920&height=100&duration=4000&pause=1000&size=30" alt="Example Usage - README Typing SVG">
-</div>
-<div style="text-align: center; margin: 10px 0 20px 0;">
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-    <img src="https://komarev.com/ghpvc/?username=Leopoldo-Medeiros&color=blue&style=for-the-badge" alt="Profile Views" style="margin: 0 auto;">
-    <h2 style="margin: 0;">Full Stack Developer</h2>
+<div style="text-align: center; max-width: 100%; overflow: hidden;">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I%20am%20Leo!%20%F0%9F%98%8E;&font=Fira%20Code&center=true&width=920&height=100&duration=4000&pause=1000&size=30" alt="Example Usage - README Typing SVG" style="display: block; margin: 0 auto;">
+  
+  <div style="margin: 20px 0;">
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://komarev.com/ghpvc/?username=Leopoldo-Medeiros&color=blue&style=for-the-badge" alt="Profile Views" style="display: block; margin: 0 auto 10px;">
+      <h2 style="margin: 0;">Full Stack Developer</h2>
+    </div>
   </div>
-</div>
 
-<div style="text-align: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leopoldo-Medeiros&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leopoldo-Medeiros&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" alt="Top Languages" />
-</div>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leopoldo-Medeiros&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" onerror="this.style.display='none'" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leopoldo-Medeiros&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" alt="Top Languages" onerror="this.style.display='none'" />
+  </div>
 
-<div style="text-align: center;">
-  <img src="./public/images/LeoAvatar.png" alt="Leo Avatar" width="400">
+  <div style="margin: 20px 0;">
+    <img src="./public/images/LeoAvatar.png" alt="Leo Avatar" width="400" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
 </div>
 
 
