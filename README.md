@@ -2,12 +2,17 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I%20am%20Leo!%20%F0%9F%98%8E;&font=Fira%20Code&center=true&width=920&height=100&duration=4000&pause=1000&size=30" alt="Example Usage - README Typing SVG">
 </p>
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=ParthJohri&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  <img src="https://komarev.com/ghpvc/?username=Leopoldo-Medeiros&color=blue&style=for-the-badge" alt="Profile Views">
   Full Stack Developer
 </h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leopoldo-Medeiros&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leopoldo-Medeiros&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Leopoldo-Medeiros/Leopoldo-Medeiros/HEAD/public/images/LeoAvatar.png" alt="Leo Avatar" width="400">
 </p>
 
 &nbsp;&nbsp;&nbsp;
@@ -19,20 +24,11 @@
   </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Leopoldo-Medeiros&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
-&nbsp;
-&nbsp;
-### ✅ Merged PRs
-<!--Start Count Merged PRs-->
-<span><img src="https://img.shields.io/badge/Total_Merged_PRs-28-1877F2?style=for-the-badge"></span>
-<!--Finish Count Merged PRs-->
-
-<!--Start Merged PRs-->
-1. 🥳 Merged PR [16](https://github.com/Leopoldo-Medeiros/Jobs2/pulls?q=is%3Apr+is%3Aclosed) - [Jobs2](https://github.com/Leopoldo-Medeiros/Jobs2/pulls?q=is%3Apr+is%3Aclosed)
-2. 🎉 Merged PR [12](https://github.com/Leopoldo-Medeiros/codecv6/pulls?q=is%3Apr+is%3Aclosed) - [CODECV6](https://github.com/Leopoldo-Medeiros/codecv6/pulls?q=is%3Apr+is%3Aclosed)
-<!--Finish Merged PRs-->
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leopoldo-Medeiros&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leopoldo-Medeiros&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+</p>
 
 ## 🤓 My Skills
 
