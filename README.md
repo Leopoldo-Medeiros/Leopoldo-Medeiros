@@ -11,26 +11,22 @@
   </div>
 
   <!-- Avatar Image - Centered -->
-  <div style="margin: 30px 0; display: flex; justify-content: center; width: 100%;">
-    <div style="text-align: center;">
-      <img 
-        src="./public/images/LeoAvatar.png" 
-        alt="Leo Avatar" 
-        style="
-          width: 400px; 
-          height: auto; 
-          border-radius: 10px; 
-          box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-          display: block;
-          margin: 0 auto;
-        ">
-    </div>
+  <div style="text-align: center; margin: 30px 0;">
+    <img 
+      src="./public/images/LeoAvatar.png" 
+      alt="Leo Avatar" 
+      style="
+        width: 400px; 
+        height: auto; 
+        border-radius: 10px; 
+        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+      ">
   </div>
 
   <!-- GitHub Streak Stats -->
   <div style="margin: 30px 0; text-align: center;">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Leopoldo-Medeiros&theme=radical&date_format=j%20M%5B%20Y%5D" 
+      src="https://streak-stats.demolab.com?user=Leopoldo-Medeiros&theme=radical&date_format=j%20M%5B%20Y%5D"
       alt="GitHub Streak"
       style="max-width: 100%; height: auto;"
     >
