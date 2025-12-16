@@ -23,12 +23,17 @@
       ">
   </div>
 
-  <!-- GitHub Streak Stats -->
+  <!-- GitHub Stats -->
   <div style="margin: 30px 0; text-align: center;">
     <img 
-      src="https://github-readme-stats.vercel.app/api/streak?user=Leopoldo-Medeiros&theme=radical&date_format=j%20M%5B%20Y%5D"
-      alt="GitHub Streak"
+      src="https://github-readme-stats.vercel.app/api?username=Leopoldo-Medeiros&show_icons=true&theme=radical"
+      alt="Leopoldo Medeiros' GitHub Stats"
       style="max-width: 100%; height: auto;"
+    >
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Leopoldo-Medeiros&theme=radical&date_format=j%20M%5B%20Y%5D"
+      alt="Leopoldo Medeiros' GitHub Streak"
+      style="max-width: 100%; height: auto; margin-top: 20px;"
     >
   </div>
 </div>
