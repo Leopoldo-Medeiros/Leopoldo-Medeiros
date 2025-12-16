@@ -9,32 +9,42 @@
       <h2 style="margin: 0; color: #333;">Full Stack Developer</h2>
     </div>
   </div>
-
-  <!-- Avatar Image - Centered -->
-  <div style="text-align: center; margin: 30px 0;">
-    <img 
-      src="./public/images/LeoAvatar.png" 
-      alt="Leo Avatar" 
-      style="
-        width: 400px; 
-        height: auto; 
-        border-radius: 10px; 
-        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-      ">
-  </div>
-
-  <!-- GitHub Stats -->
-  <div style="margin: 30px 0; text-align: center;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Leopoldo-Medeiros&show_icons=true&theme=radical"
-      alt="Leopoldo Medeiros' GitHub Stats"
-      style="max-width: 100%; height: auto;"
-    >
-  </div>
 </div>
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img 
+          src="./public/images/LeoAvatar.png" 
+          alt="Leo Avatar" 
+          style="
+            width: 400px; 
+            height: auto; 
+            border-radius: 10px; 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+          ">
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img 
+          align="center"
+          src="https://github-readme-stats.vercel.app/api?username=Leopoldo-Medeiros&show_icons=true&theme=radical"
+          alt="Leopoldo Medeiros' GitHub Stats"
+        />
+        <br/><br/>
+        <img 
+          align="center"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leopoldo-Medeiros&layout=compact&theme=radical" 
+          alt="Top Languages"
+        />
+      </div>
+    </td>
+  </tr>
+</table>
 
-<p align="center" style="max-width: 800px; margin: 0 auto;">
+<p align="center" style="max-width: 800px; margin: 20px auto 0 auto;">
 I ❤️ solve great challenges using tech. I am a Fullstack Developer passionate about solving complex problems through technology. I like to balance my career between technical and soft skills, so I gained experience implementing features on websites and systems during my journey, and I am still facing new challenges that have made and make me grow as a professional so far.
 </p>
 
