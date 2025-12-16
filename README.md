@@ -3,11 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I%20am%20Leo!%20%F0%9F%98%8E;&font=Fira%20Code&center=true&width=920&height=100&duration=4000&pause=1000&size=30" alt="Welcome to my profile" style="display: block; margin: 0 auto;">
   
   <!-- Profile Views and Title -->
-  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leopoldo-Medeiros&color=blue&style=for-the-badge&ignore=Leopoldo-Medeiros" alt="Profile Views" />
-
-<h2 style="color: #333;">Full Stack Developer</h2>
-</div>
+  <h2 align="center" style="color: #333;">
+  <img src="https://komarev.com/ghpvc/?username=Leopoldo-Medeiros&color=blue&style=for-the-badge&ignore=Leopoldo-Medeiros" alt="Profile Views" style="vertical-align: middle; margin-right: 10px;" />
+  Full Stack Developer
+</h2>
 </div>
 
 <table style="width: 100%;">
