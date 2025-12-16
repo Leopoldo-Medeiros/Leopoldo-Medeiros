@@ -1,11 +1,11 @@
 <div style="text-align: center;">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I%20am%20Leo!%20%F0%9F%98%8E;&font=Fira%20Code&center=true&width=920&height=100&duration=4000&pause=1000&size=30" alt="Example Usage - README Typing SVG">
 </div>
-<div style="text-align: center;">
-  <h2>
-    <img src="https://komarev.com/ghpvc/?username=Leopoldo-Medeiros&color=blue&style=for-the-badge" alt="Profile Views">
-    Full Stack Developer
-  </h2>
+<div style="text-align: center; margin: 10px 0 20px 0;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+    <img src="https://komarev.com/ghpvc/?username=Leopoldo-Medeiros&color=blue&style=for-the-badge" alt="Profile Views" style="margin: 0 auto;">
+    <h2 style="margin: 0;">Full Stack Developer</h2>
+  </div>
 </div>
 
 <div style="text-align: center;">
@@ -17,7 +17,6 @@
   <img src="./public/images/LeoAvatar.png" alt="Leo Avatar" width="400">
 </div>
 
-&nbsp;&nbsp;&nbsp;
 
 <p align="center" style="max-width: 800px; margin: 0 auto;">
 I ❤️ solve great challenges using tech. I am a Fullstack Developer passionate about solving complex problems through technology. I like to balance my career between technical and soft skills, so I gained experience implementing features on websites and systems during my journey, and I am still facing new challenges that have made and make me grow as a professional so far.
