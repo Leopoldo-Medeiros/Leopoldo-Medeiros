@@ -102,6 +102,7 @@ I ❤️ solve great challenges using tech. I am a Fullstack Developer passionat
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Amigoscode](https://img.shields.io/badge/Amigoscode-00C9A7?style=for-the-badge&logo=amigoscode&logoColor=white)
 
 
 ## Contacts:
