@@ -45,30 +45,6 @@
 I ❤️ to solve great challenges using tech. I am a Fullstack Developer passionate about solving complex problems through technology. I like to balance my career between technical and soft skills, so I gained experience implementing features on websites and systems during my journey, and I am still facing new challenges that have made and make me grow as a professional so far.
 </p>
 
-## 👨‍💻 Work Experience
-
-- **Senior Observability Engineer** at New Relic Inc  
-  Jan 2023 - Present
-    - Handle troubleshooting and fix complex issues in various APM products including PHP, Python, Node.js, Distributed Tracing, Otel, Alerts, and Synthetics
-    - Provide expert technical advice and support to developers, covering product installation, advanced setups, and key observability concepts
-    - Built high-performance NRQL (New Relic Query Language) statements for custom analysis, reporting, and setting up critical alert policies
-    - Maintained compliance over 95% with the lowest TTR, achieving a 98% CSAT score
-
-
-- **FullStack Developer** at Online Application  
-  Jun 2022 - Dec 2022
-    - Developed features and upgrades for a SaaS platform targeting the American mortgage market using Laravel 8, InertiaJS, and Vue.js
-    - Built scalable front-end components with Vue.js, focusing on reusability and state management
-    - Implemented Lando (Docker-based) development environment, improving team productivity
-    - Managed source control and set up GitLab CI/CD pipelines for automation and deployment
-
-
-- **Software Engineer** at Hibernian Healthcare  
-  Jan 2020 - Jun 2022
-    - Designed and automated appointment systems and healthcare logistics deliveries using PHP, improving reliability and security
-    - Built secure web applications using CodeIgniter 3, MySQL, and front-end technologies (JavaScript, HTML5)
-    - Integrated RESTful APIs for smooth data exchanges and provided technical support for deployed applications
-
 ## 🤓 My Skills
 
 #### Main Stacks:
